@@ -1,4 +1,4 @@
-Basic react app to search movies by an api call and listing them on the page.
+# Basic react app to search movies by an api call and listing them on the page.
 
 
 # Getting Started with Create React App
