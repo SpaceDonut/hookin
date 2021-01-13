@@ -1,5 +1,8 @@
 # Basic react app to search movies by an api call and listing them on the page.
 
+# Required steps
+1. Get api key from [here](http://www.omdbapi.com/apikey.aspx)
+2. Set the api key as an env variable (example in .env_sample)
 
 ## Getting Started with Create React App
 
