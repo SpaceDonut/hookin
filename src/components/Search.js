@@ -17,10 +17,16 @@ const Search = (props) => {
     resetInputField();
   }
 
-  return(
+  return (
     <form className="search">
-      <input value={searchValue} onChange={handleSearchInputChanges} type="text"/>
-      <input onClick={callSearchFunction} type="submit" value="SEARCH"/>
+      <input 
+        value={searchValue} 
+        onChange={handleSearchInputChanges} 
+        type="text"/>
+      <input 
+        onClick={callSearchFunction} 
+        type="submit" 
+          bb b value="SEARCH"/>
     </form>
   );
 };

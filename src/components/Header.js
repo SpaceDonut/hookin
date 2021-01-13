@@ -1,4 +1,3 @@
-import { Http2ServerRequest } from 'http2';
 import React from 'react';
 
 const Header = (props) => {
